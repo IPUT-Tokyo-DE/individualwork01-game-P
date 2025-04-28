@@ -3709,7 +3709,7 @@ MonoBehaviour:
     _objectReferences:
     - {fileID: 1140028758}
     - {fileID: 379182406}
-    - {fileID: 913721320}
+    - {fileID: 791824882}
     - {fileID: 503085931}
     - {fileID: 913721320}
 --- !u!4 &569889453
@@ -16543,11 +16543,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1131251859502241036, guid: 818d7bef35478f5478f735603c5cf9d4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.33
+      value: -34.3
       objectReference: {fileID: 0}
     - target: {fileID: 1131251859502241036, guid: 818d7bef35478f5478f735603c5cf9d4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.05
+      value: 27.1
       objectReference: {fileID: 0}
     - target: {fileID: 1131251859502241036, guid: 818d7bef35478f5478f735603c5cf9d4, type: 3}
       propertyPath: m_LocalPosition.z
